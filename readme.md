@@ -1,10 +1,27 @@
-<section
-        class="h-screen w-screen flex items-center justify-center border-x-3 border-black md:h-screen"
-      >
-        <img
-          src="..\assets\frontman.jpeg"
-          alt="FrontmanLogo"
-          srcset=""
-          class="rounded-full p-8 md:p-8 lg:p-8 h-84 w-84 md:h-88 md:w-88 lg:h-96 lg:w-96"
-        />
-      </section>
+# 🔗 FR0NTM4N - Social Links Page
+
+A responsive and clean single-page HTML website to showcase your social media links and contact details.  
+Built using **Tailwind CSS** for styling and mobile-first responsiveness.
+
+---
+
+## 🚀 Features
+
+- ✅ Clean and modern UI
+- ✅ Fully responsive layout (mobile, tablet, desktop)
+- ✅ Contact button (WhatsApp)
+- ✅ Social links (Telegram, Twitter, Email)
+- ✅ Profile image section
+- ✅ Easy to customize for any username or branding
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- [Tailwind CSS](https://tailwindcss.com/)
+- Responsive Design using Flexbox
+
+---
+
+
